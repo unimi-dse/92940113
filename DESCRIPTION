@@ -1,11 +1,12 @@
 Package: ramatuer
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Brief showing dataset of life expectancy of Asia Pacific
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Hai Hoa Lu
+Maintainer: Hai Hoa Lu <haihoa.lu@studenti.unimi.it>
+Description: This package illustrates the data of life expectancy among the countries in Asia Pacific from 2000 to 2015
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Imports: ggplot2, dplyr
+RoxygenNote: 7.0.2
